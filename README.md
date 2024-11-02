@@ -1,6 +1,6 @@
 # Diabetes_prediction
 Preview of the Project
-![Alt text](images/1.PNG)
+![Diagram of a process](images/1.PNG)
 ![](images/2.PNG)
 ![](images/3.PNG)
 ![](images/4.PNG)
