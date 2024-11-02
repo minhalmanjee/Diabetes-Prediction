@@ -1,7 +1,7 @@
 # Diabetes_prediction
 Preview of the Project
 ![Alt text](https://github.com/minhalmanjee/Diabetes-Prediction/blob/main/Images/1.PNG)
-![](images/2.PNG)
+![](https://github.com/minhalmanjee/Diabetes-Prediction/blob/main/Images/2.PNG)
 ![](images/3.PNG)
 ![](images/4.PNG)
 
